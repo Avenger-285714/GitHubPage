@@ -1,0 +1,3 @@
+[submodule "themes/particlex"]
+	path = themes/particlex
+	url = git@github.com:Avenger-285714/hexo-theme-particlex.git
